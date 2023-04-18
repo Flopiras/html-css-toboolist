@@ -43,7 +43,7 @@ section{
 button{
     height: 2rem;
     width: 7rem;
-    border-radius: 10%;
+    border-radius: 30px;
     font-size: 1.2rem;  
 }
 
@@ -76,13 +76,32 @@ ul {
     padding: 0.1rem;
 }
 
+.cross{
+    color: red;
+    border: solid red;
+    border-radius: 50%;
+    padding: 0.1rem;
+}
+
 sub{
     color: white;
     margin: 1rem;
     padding: 0.5rem;
-    border-radius: 31%;
+    border-radius: 30px;
 }
 
 .editorial{
     background-color: #45abea;
+}
+
+.q1-goals{
+    background-color: #9c72e4;
+}
+
+.recruiting{
+    background-color: #64c0a9;
+}
+
+.mobile{
+    background-color: #f29e33;
 }
