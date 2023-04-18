@@ -25,10 +25,7 @@ h1{
 #bgr_container{
     background-color: lightgreen;
     height: 1080px;
-}
-
-main{
-    margin-top: 2rem;
+    padding: 1rem;
 }
 
 section{
@@ -69,6 +66,7 @@ li {
 }
 ul {
     list-style-type:none;
+    margin-top: 2rem;
 }
 
 .check{
