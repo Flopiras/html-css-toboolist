@@ -4,6 +4,7 @@
     box-sizing: border-box;
     font-family: Arial, Helvetica, sans-serif;
 }
+
 header{
     margin: 1rem;
 }
@@ -19,4 +20,35 @@ h1{
     font-size: 3rem;
     font-weight: 800;
     vertical-align: middle;
+}
+
+#bgr_container{
+    background-color: lightgreen;
+    height: 1080px;
+}
+
+.main_container{
+    background-color: white;
+    width: 70%;
+    margin: 30px auto;
+}
+
+button{
+    height: 2rem;
+    width: 7rem;
+    border-radius: 10%;
+    font-size: 1.2rem;  
+}
+
+#add_task{
+    background-color: #1e90ff;
+    margin-left: 2rem;
+    border: 0;
+    color: white;
+}
+
+#add_section{
+    background-color: white;
+    border: 1px solid;
+    margin-left: 1rem;
 }
